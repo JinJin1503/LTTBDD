@@ -45,11 +45,11 @@ class ProfileScreen extends StatelessWidget {
           children: [
             const CircleAvatar(
               radius: 80,
-              backgroundImage: NetworkImage("https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-1/435702549_427665636614454_4294691182151656485_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=iPMI-dfITIQQ7kNvgGhQlC8&_nc_oc=Adjwxaly404mutIzEJuJEm7nE5_CIOZdVwgwv6ARBBLkdprjFPbEbohowpypySG6FVo&_nc_zt=24&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=A29Hv4T41V5VwWtNQeNuOGH&oh=00_AYCpddMt5feenmuHwIC9yiu7E7kTCB14Wcwy9j3bCm1Kmg&oe=67CA670C"),
+              backgroundImage: NetworkImage("https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-1/480743736_1877004936462569_5552455785792565813_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=R0i7lxNUp8MQ7kNvgH61tDj&_nc_oc=Adgxqy0w-5ywyuU10SXfCx0LK9hD7urYk72vwaUN_kxs0N_ZxU_GHN00ipTBW7h06nA&_nc_zt=24&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=AzUGNs9d_nTe7_ZvME2CwKR&oh=00_AYCQBori5OlfL2uJxiL3r4WBSm8LUAiKHk-7yHzzQpNXCg&oe=67CDDC86"),
             ),
             const SizedBox(height: 16),
             const Text(
-              "Yến Di",
+              "Gia Khánh",
               style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 8),
